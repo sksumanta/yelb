@@ -1,6 +1,11 @@
 Deploy applications on Amazon ECS using Docker Compose
 
       https://aws.amazon.com/blogs/containers/deploy-applications-on-amazon-ecs-using-docker-compose/
+      
+      
+      https://github.com/sksumanta/yelb/tree/master/deployments/platformdeployment
+      
+      
 
 #### Why Yelb 
 
